@@ -31,18 +31,18 @@ https://user-images.githubusercontent.com/60623941/219963233-000d3d58-ab21-4a09-
 
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/60623941/219963514-51874ce3-8b40-4685-a8c1-67c3dc56d99d.PNG" width="500" alt="cow image"/>
+  <img src="https://user-images.githubusercontent.com/60623941/219963514-51874ce3-8b40-4685-a8c1-67c3dc56d99d.PNG" width="400" alt="cow image"/>
   <img src="https://user-images.githubusercontent.com/60623941/219963517-2bd28844-274a-4b46-8701-6761c35ef095.PNG" width="500" alt="cow image"/>
 </p>
 <br>
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/60623941/219963519-5ce30a6a-71e3-413d-93e8-0605e18bec34.PNG" width="500" alt="cow image"/>
+  <img src="https://user-images.githubusercontent.com/60623941/219963519-5ce30a6a-71e3-413d-93e8-0605e18bec34.PNG" width="400" alt="cow image"/>
   <img src="https://user-images.githubusercontent.com/60623941/219963520-52cb50f1-6d05-49f7-af45-f267e178b309.PNG" width="500" alt="cow image"/>
 </p>
 <br>
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/60623941/219963639-2ea231c0-e72b-4170-b37d-4f0e1a120117.PNG" width="500" alt="cow image"/>
-  <img src="https://user-images.githubusercontent.com/60623941/219963643-62725933-124c-4e52-99c7-88e02784341f.PNG" width="500" alt="cow image"/>
+  <img src="https://user-images.githubusercontent.com/60623941/219963639-2ea231c0-e72b-4170-b37d-4f0e1a120117.PNG" width="400" alt="brain image"/>
+  <img src="https://user-images.githubusercontent.com/60623941/219963643-62725933-124c-4e52-99c7-88e02784341f.PNG" width="500" alt="brain image"/>
 </p>
 
 <h5>*https://shape.cs.princeton.edu/benchmark/documentation/off_format.html</h5>
